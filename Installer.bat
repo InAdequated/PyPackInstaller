@@ -11,5 +11,6 @@ pip install PyGlet
 pip install PySide2
 pip install PyQt5
 pip install PyGame
+pip install PyOpenGL
 echo Finished!
 pause
